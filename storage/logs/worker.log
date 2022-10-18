@@ -1,0 +1,3348 @@
+{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}{"result":0,"msg":"","data":{"status":-4}}Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.22          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+
+In RedisManager.php line 41:
+                                                                               
+  Argument 2 passed to Illuminate\Redis\RedisManager::__construct() must be o  
+  f the type array, string given, called in /www/wwwroot/hd.iyeecare.com/app/  
+  framework/Redis/RedisServiceProvider.php on line 25                          
+                                                                               
+
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.26          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.27          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.29          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+PHP Warning:  include(/www/data/config.php): failed to open stream: No such file or directory in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+Warning: include(/www/data/config.php): failed to open stream: No such file or directory in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+PHP Warning:  include(): Failed opening '/www/data/config.php' for inclusion (include_path='.:/www/server/php/72/lib/php') in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+Warning: include(): Failed opening '/www/data/config.php' for inclusion (include_path='.:/www/server/php/72/lib/php') in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+In Connection.php line 669:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO) (SQL: select * from `account_wechats` where `uniacid` is null limit   
+  1)                                                                           
+                                                                               
+
+In PDOConnection.php line 47:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO)                                                                       
+                                                                               
+
+In PDOConnection.php line 43:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO)                                                                       
+                                                                               
+
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+PHP Warning:  include(/www/data/config.php): failed to open stream: No such file or directory in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+Warning: include(/www/data/config.php): failed to open stream: No such file or directory in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+PHP Warning:  include(): Failed opening '/www/data/config.php' for inclusion (include_path='.:/www/server/php/72/lib/php') in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+Warning: include(): Failed opening '/www/data/config.php' for inclusion (include_path='.:/www/server/php/72/lib/php') in /www/wwwroot/hd.iyeecare.com/config/database.php on line 32
+
+In Connection.php line 669:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO) (SQL: select * from `account_wechats` where `uniacid` is null limit   
+  1)                                                                           
+                                                                               
+
+In PDOConnection.php line 47:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO)                                                                       
+                                                                               
+
+In PDOConnection.php line 43:
+                                                                               
+  SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using passwor  
+  d: NO)                                                                       
+                                                                               
+
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+
+In Container.php line 825:
+                                                                               
+  Undefined class constant 'app\common\services\finance\PointService::YS_SYST  
+  EM_POINT_SYNC'                                                               
+                                                                               
+
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[wk] stop success
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.30          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[wk] stop 
+Workerman[wk] is stopping ...
+Workerman[Worker.php] stopping ...
+Workerman[Worker.php] has been stopped
+Workerman[wk] stop success
+Workerman[wk] stop 
+Workerman[wk] not run
+Workerman[wk] start in DEBUG mode
+--------------------------------------- WORKERMAN ---------------------------------------
+Workerman version:4.0.33          PHP version:7.2.33
+---------------------------------------- WORKERS ----------------------------------------
+proto   user            worker             listen          processes    status           
+tcp     www             yun_shop_daemon    none            1             [OK]            
+tcp     www             yun_shop_queue     none            1             [OK]            
+tcp     www             yun_shop_cron      none            1             [OK]            
+-----------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
